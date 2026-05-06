@@ -1,1 +1,8 @@
-venv
+database\db.py
+.env
+venv/
+__pycache__/
+*.pt
+*.cache
+tries\
+runs\
